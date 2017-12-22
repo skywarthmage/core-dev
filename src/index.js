@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import {HashRouter, Route, Switch} from 'react-router-dom';
 import {createBrowserHistory} from 'history';
 
-// Styles
+// Styles sheet
 // Import Font Awesome Icons Set
 import 'font-awesome/css/font-awesome.min.css';
   // Import Simple Line Icons Set
